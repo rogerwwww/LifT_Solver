@@ -1,9 +1,9 @@
 [submodule "external/andres-graph"]
 	path = solverILP/external/andres-graph
-	url = https://github.com/bjoern-andres/graph.git
+	url = ../../bjoern-andres/graph.git
 [submodule "external/TCLAP"]
 	path = solverILP/external/TCLAP
-	url = https://github.com/mirror/tclap.git
+	url = ../../mirror/tclap.git
 [submodule "external/pybind11"]
 	path = solverILP/external/pybind11
-	url = https://github.com/pybind/pybind11.git
+	url = ../../pybind/pybind11.git
